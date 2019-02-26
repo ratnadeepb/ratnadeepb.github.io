@@ -17,9 +17,9 @@ My research interested are mainly in the area of Data Center/Cloud/Edge systems 
 
 &nbsp;
 
-###Teaching Experience
+### Teaching Experience
 
 * **Teaching Assistant, Operating Systems, George Washington University**
-* [Operating Systems](https://www2.seas.gwu.edu/~gparmer/classes/2018-08-01-Operating-Systems.html).
+    * [Operating Systems](https://www2.seas.gwu.edu/~gparmer/classes/2018-08-01-Operating-Systems.html).
 
 &nbsp;
