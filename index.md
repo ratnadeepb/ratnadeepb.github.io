@@ -1,7 +1,7 @@
 ---
 layout: default
 section: home
-title: "Grace Liu: Homepage"
+title: "Ratnadeep Bhattacharya: Homepage"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
