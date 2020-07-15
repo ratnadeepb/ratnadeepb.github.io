@@ -152,7 +152,15 @@
 					</div>
 					<div class="col-md-8">
 						Microservices are typically deployed with the sidecar architecture where every microservices is
-						deployed in a container and is accompanied by a proxy.
+						deployed in a container and is accompanied by a proxy. The most popular algorithms in this space
+						are Round Robin (RR), Power-of-two-random-choices (P2C) and Join the Shortest Queue (JSQ). This
+						project highlights problems with these algorithms with regards to microservices and proposes a
+						more general algorithm, DynamicPnC, that treats the above as special cases of itself and
+						also
+						incorporates the
+						user's preference about the optimality-cost trade-off implicit in using these traditional
+						algorithms. I am attempting to demonstrate that DynamicPnC can lead to far better results in
+						terms of load balancing.
 					</div>
 				</div>
 			</div>
